@@ -1,0 +1,165 @@
+@media (max-width:1080px) {
+  .header {
+    position: fixed;
+    background-color: white;
+    height: 60px;
+    z-index: 10;
+    padding-top: 0px;
+    width: 1150px
+  }
+  
+  .header-logo img {
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+  
+  .header-right {
+    display: none;
+  }
+  
+  .menu-icon {
+    display:block;
+  }
+  
+  .about-wrapper {
+    height: 800px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width:1025px) {
+  .test {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .movie-contents {
+    text-align: center;
+  }
+  
+  .about-wrapper video {
+    width: 800px;
+  }
+  
+  .about-contents {
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 800px;
+  }
+  
+  .about-contents a {
+    display: block;
+    text-align: center;
+  } 
+}
+
+@media (max-width:768px) {
+  .header {
+    height: 75px;
+  }
+  
+  .header-left {
+    margin-top: 5px;
+  }
+  
+  .header-logo img {
+    width: 210px;
+  }
+  
+  .alternate-icon {
+    padding-top: 2px;
+    margin-right: 8px;
+    
+  }
+  
+  .menu-icon {
+    width: 43px;
+    height: 4px;
+  }
+  
+  .line-2 {
+    margin-top: 12px;
+  }
+  
+  .line-3 {
+    margin-top: 12px;
+  }
+  
+  .main-wrapper {
+    background-image: url("https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero-sp.jpg.webp");
+    background-position: center 70px;
+    height: 1300px;
+    margin-bottom: 400px;
+  }
+  
+  .headline h1 {
+    float: none;
+    margin-top: 720px;
+    font-weight: bolder;
+  }
+  
+  .images-wrapper {
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .images-wrapper img {
+    float: none;
+  }
+  
+  .image-large {
+    width: 400px;
+    margin: 0px 20px;
+  }
+  
+  .image-small {
+    width: 300px;
+  }
+  
+  .top-counseling {
+    float: none;
+    display: block;
+    font-size: 25px;
+    margin-top: 40px;
+  }
+  
+  .top-counseling a {
+    padding: 30px 0px;
+  }
+  
+  .cautions {
+    line-height: 27px;
+    font-size: 18.5px;
+    margin-top: 50px;
+  }
+  
+  .about-wrapper {
+    padding-bottom: 1080px;
+  }
+  
+  .about-wrapper video {
+    margin-top: 40px;
+    width: 1070px;
+  }
+  
+  .about-contents {
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 1050px;
+  }
+  
+  .about-contents h2 {
+    font-size: 50px;
+  }
+  
+  .about-contents p {
+    font-size: 24.5px;
+    line-height: 38px;
+  }
+  
+  .about-contents img {
+    margin-top: 40px;
+    width: 250px;
+  }
+}
