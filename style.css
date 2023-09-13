@@ -167,10 +167,7 @@
 .test {
   position: relative;
   padding: 0px 40px;
-  padding-left: 45px;
-  padding-right: 45px;
   margin: 0 auto;
-  width: 1150px;
   display: flex;
   justify-content:space-between;
 }
