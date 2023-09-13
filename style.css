@@ -163,6 +163,7 @@
 }
 
 .test {
+  max-width: 1150px;
   position: relative;
   padding: 0px 40px;
   margin: 0 auto;
