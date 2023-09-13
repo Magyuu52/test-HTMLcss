@@ -37,6 +37,10 @@
   .movie-contents {
     text-align: center;
   }
+
+  .about-wrapper video {
+    max-width: 700px;
+  }
   
   .about-contents {
     max-width: 700px;
