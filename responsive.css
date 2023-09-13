@@ -25,6 +25,10 @@
     height: 800px;
     margin: 0 auto;
   }
+
+  .about-contents {
+    text-align: left;
+  }
 }
 
 @media (max-width:1025px) {
