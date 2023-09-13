@@ -29,7 +29,7 @@
 
 @media (max-width:1025px) {
   .test {
-    margin: 0 auto;
+    text-align: center;
     display: flex;
     flex-direction: column;
   }
