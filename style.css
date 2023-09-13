@@ -189,6 +189,7 @@
 }
 
 .about-contents {
+  max-width: 485px;
   margin-left: 45px;
   padding-top: 60px;
 }
