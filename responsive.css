@@ -95,7 +95,7 @@
   .main-wrapper {
     background-image: url("https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero-sp.jpg.webp");
     background-position: center 70px;
-    margin-bottom: 700px;
+    margin-bottom: 500px;
   }
 
   .headline {
@@ -138,7 +138,6 @@
   }
   
   .cautions {
-    line-height: 27px;
     margin-top: 50px;
   }
   
