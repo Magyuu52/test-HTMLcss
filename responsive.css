@@ -146,7 +146,7 @@
   
   .about-wrapper video {
     margin-top: 40px;
-    width: 1070px;
+    max-width: 720px;
   }
   
   .about-contents {
