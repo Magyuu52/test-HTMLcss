@@ -142,7 +142,7 @@
   }
   
   .about-wrapper {
-    padding-bottom: 1080px;
+    padding-bottom: 80px;
   }
   
   .about-wrapper video {
@@ -158,6 +158,5 @@
   
   .about-contents img {
     margin-top: 40px;
-    width: 250px;
   }
 }
